@@ -1,6 +1,7 @@
 // package bank;
 import java.util.Scanner;
 // Mohamed
+// Qassem
 class BankDetails {
   private String accno;
   private String name;
